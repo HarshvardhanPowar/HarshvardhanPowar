@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshvardhanPowar
 - 👀 I’m interested in Computer,Sports etc
-- 🌱 I’m currently learning C Language 
+- 🌱 I’m currently learning C Language and Java
 - 💞️ I’m looking to collaborate on C Programming
 - 📫 How to reach me harshpowar9626@gmail.com
 - 😄 Pronouns: Harshu 
